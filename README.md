@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **HTML,CSS,BOOSTRAP,JAVASCRIPT,REACTJS**
+- 💬 Ask me about **HTML,CSS,BOOSTRAP,JAVASCRIPT,REACTJS,NODEJS,EXPRESSJS,MONGODB**
 
 - 📫 How to reach me **sjsaurabh082@gmail.com**
 
