@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurabh Jaiswar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <img src="https://imgvisuals.com/cdn/shop/products/animated-developer-flat-character-708605.gif?v=1697071114" align="right" width="400px">
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently Working **Web Development**
 
-- 💬 Ask me about **HTML,CSS,BOOSTRAP,JAVASCRIPT,REACTJS,NODEJS,EXPRESSJS,MONGODB**
+- 💬 Ask me about **HTML,CSS,BOOSTRAP,TAILWINDCSS,JAVASCRIPT,REACTJS,NODEJS,EXPRESSJS,PHP,LARAVEL,MONGODB,MYSQL**
 
 - 📫 How to reach me **sjsaurabh082@gmail.com**
 
