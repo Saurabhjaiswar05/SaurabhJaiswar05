@@ -9,12 +9,14 @@
 
 - 📫 How to reach me **sjsaurabh082@gmail.com**
 
+<img src="https://imgvisuals.com/cdn/shop/products/animated-developer-flat-character-708605.gif?v=1697071114" align="right" width="400px">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/saurabh-jaiswar-591053247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/saurabh-jaiswar-591053247" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/sjsaurabh082/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sjsaurabh082/" height="30" width="40" /></a>
 </p>
-<img src="https://imgvisuals.com/cdn/shop/products/animated-developer-flat-character-708605.gif?v=1697071114" align="right" width="400px">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
