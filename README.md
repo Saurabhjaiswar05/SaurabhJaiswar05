@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saurabhportf.netlify.app/](https://saurabhportf.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,BOOSTRAP,JAVASCRIPT,REACTJS,PHP,LARAVEL,MYSQL,NODE,MONGODB**
+- 💬 Ask me about **HTML,CSS,BOOSTRAP,JAVASCRIPT,REACTJS,PHP,LARAVEL,FLUTTER,MYSQL,NODE,MONGODB**
 
 - 📫 How to reach me **sjsaurabh082@gmail.com**
 
