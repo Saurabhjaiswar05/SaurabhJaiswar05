@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Jaiswar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently working on **Flutter**
+- 🌱 I’m currently working on Flutter, React, Laravel, and Node.js.
 
 - 👨‍💻 All of my projects are available at [https://saurabhportf.netlify.app/](https://saurabhportf.netlify.app/)
 
